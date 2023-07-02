@@ -10,3 +10,5 @@ The observations from this project are that the most important features for chur
 The findings of this project are that PCA can be a helpful tool for churn prediction. The PCA step helped to identify the most important features that contribute to customer churn, and the machine learning model was able to make accurate predictions based on these features.
 ## Insights:
 The insights from this project are that PCA can be a valuable tool for churn prediction. By identifying the most important features that contribute to customer churn, PCA can help to improve the accuracy of churn prediction models.
+## Conclusion :
+Achieved in developing a predictive model to predict that whether the customer will stop using the product or continue using it PCA Dimensionality Reduction Technique with accuracy of 75.83% (Logistic Regression)
